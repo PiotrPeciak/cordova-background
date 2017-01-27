@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="pl.dwape.service"
+        id="cordova-background"
         version="1.0.0">
     <name>TestService</name>
     <description>My sample background job scheduler</description>
